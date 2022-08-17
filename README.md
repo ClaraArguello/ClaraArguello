@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Clara 👋
+
+![Banner clara (1)](https://user-images.githubusercontent.com/80827654/185218580-7fe4effe-2664-4a7e-88f6-4ab8c1aa1539.png)
+
+I was studying Systems Engineering at Catholic University of Cordoba when the pandemic hit. I needed a change in my career when I found an ad about Henry, and it was a one-way street. I fell in love with programming, and being able to create my own projects was such an experience. In this Bootcamp i learned a ton of skills such as JAVASCRIPT, REACT, REDUX, NODE.JS, EXPRESS, SEQUELIZE, SQL, SCRUM AND POSTGRESQL among others.
+
+I hope to one day be able to create something that will be of use to people all around the globe! In the meantime, I'll give my all to the company that decides to put their faith in me!
+
+You can find me 🌎:
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claraarguello/)
+- E-mail: [clara.arguello@gmail.com](clara.arguello@gmail.com)
 
 <!--
 **ClaraArguello/ClaraArguello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
